@@ -1,0 +1,39 @@
+_repo: Three-Courses-and-a-DessertLegal-and-a-Melange_44560
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Cruikshank, George
+    alias: Cruickshank, George
+    birthdate: 1792
+    deathdate: 1878
+    gutenberg_agent_id: '9068'
+    url: http://www.gutenberg.org/2009/agents/9068
+    wikipedia: http://en.wikipedia.org/wiki/George_Cruikshank
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clarke, William
+    alias: Cullchickweed, Ebenezer
+    birthdate: 1800
+    deathdate: 1838
+    gutenberg_agent_id: '45700'
+    url: http://www.gutenberg.org/2009/agents/45700
+description: ''
+gutenberg_issued: '2014-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44560'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legal stories, English'
+- !lcc 'PR'
+- !lcsh 'West Country (England) -- Social life and customs -- Fiction'
+- !lcsh 'Ireland -- Social life and customs -- Fiction'
+title: "Three Courses and a Dessert\r\nComprising Three Sets of Tales, West Country,\
+  \ Irish, and Legal; and a Melange"
+url: http://www.gutenberg.org/ebooks/44560
